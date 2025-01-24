@@ -1,0 +1,5 @@
+email,name,invoice_no,amount,due_date,reminder_date,has_paid
+srpmediamarketing@gmail.com,SRP,INV-21-12-010,4,1/16/2025,8/12/2022,no
+aloogobi0@gmail.com,aloo,INV-21-12-011,10,1/16/2025,8/12/2022,yes
+vinodr27004@gmail.com,Vinod,INV-21-12-012,13,1/16/2025,8/12/2022,no
+apant217@gmail.com,Abhishek,INV-21-12-013,12,1/16/2025,8/12/2022,no
